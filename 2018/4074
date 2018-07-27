@@ -1,0 +1,42 @@
+{
+  "header": {
+    "merkleRoot": "28736e1f2ac5d672d753f10f6be380af3a7adb235b937d15d5d915e62800e0f1",
+    "nonce": "160355274",
+    "no": 4074,
+    "time": "2018-07-27T11:40:05.582Z",
+    "prevHash": "0000090a54bca6d90707dbd06604a15bcdb1d7b12086548092382f5f20e0d623",
+    "minDifficulty": 19,
+    "txCount": 2
+  },
+  "sig": "3045022100a48e109306d3dc685d25bd270e681bb2a73856ea2c25d43515533a8a922d8e1202203b57fbcee05dd5929cd2a8deb6260324cd030a9f1ce6a0c5376294efbbab1e1b",
+  "txs": [
+    {
+      "to": {
+        "balance": 12371,
+        "id": "rFISb7oCc9UAHCTdcPseJZ5R4Nn1"
+      },
+      "sig": "3045022029f90d5ad28f86b0d94b0e1309d35904769fe08819b04cc85f794689e24c9aa00221008892123f50a78f8c805960b351d09ab704eff411fdcb0bace8a6f2659ff65374",
+      "amount": 1,
+      "time": "2018-07-27T11:35:08.408Z",
+      "id": "jYSMomRKtwxm7DVCa7py",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    },
+    {
+      "id": "pwuR6mlwPbWEwXpKNPjQ",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 12372,
+        "id": "rFISb7oCc9UAHCTdcPseJZ5R4Nn1"
+      },
+      "sig": "3045022100e5eb19823a18cb229aec02637829287b8a44d0619b7982442a322de293a4d2a002201e47ccfe8f51f2ab1ca01157408ba240f6b271f96633e0a2f295186fb7887f2f",
+      "amount": 2,
+      "time": "2018-07-27T11:35:20.667Z"
+    }
+  ]
+}
