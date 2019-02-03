@@ -1,0 +1,72 @@
+{
+  "header": {
+    "merkleRoot": "5e4e72b357c5d7c47d0fa8f9630bbb9b30e229e2adfc4858e4c46f32830c0c68",
+    "nonce": "185646375",
+    "no": 19834,
+    "time": "2019-02-03T07:55:51.231Z",
+    "prevHash": "a206819c12d8922c59481ec2cc3e0e42d8bcc5ba62c65a992beb84c52e94cb42",
+    "version": 2,
+    "minDifficulty": 12,
+    "prevPow": "0000dfa29a75ed8a081860af12c12f5b52185492c15f41e5ccdab7be19fa203a",
+    "txCount": 4
+  },
+  "sig": "30440220070d9d2a91fc10ebb0a56ce851417fa807ebc9a9c33e47c4a971403a01a1e618022000a185739e5add98cdff53537e314e51e7dfa69b9af40b5c6357ad891fea351f",
+  "txs": [
+    {
+      "to": {
+        "balance": 10801,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3046022100c24fbfafb103502dd06b6bbe2c5055f9af5258b1b16fb70a4f36698e09361ceb02210086c82183cd9a64b537251b57f2bdbae56fa7753a8be664fefaa1b75dc734a73a",
+      "time": "2019-02-03T07:40:53.655Z",
+      "amount": 1,
+      "id": "KFXtUwSqwtnT4Xx5UB68",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      }
+    },
+    {
+      "to": {
+        "balance": 10802,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3044022042dcf4a3faf22069dce8f55632908eba31f5cb3a367929c36aaae3234315d0eb02207df5d23ae2242a9080c727357ceee21360945221b29d17da20e3dd2d13d2f616",
+      "amount": 1,
+      "time": "2019-02-03T07:40:57.721Z",
+      "id": "ZOWjH4P131547PKOUy5P",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    },
+    {
+      "id": "mPcNItM6WhNLkH9soHLy",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 10803,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304402202e186385d80e59717c411bf4bd14bc60d0b7f1ef153b6e7b893df1b06fcfe211022032bcaf31b3779c0dc8eede3705eedacf54add8e08a9089d309d69bad95de62c3",
+      "time": "2019-02-03T07:41:30.079Z",
+      "amount": 1
+    },
+    {
+      "to": {
+        "balance": 10804,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304502204ebc5c9f0859365893a828b83247ecdbb9d96899e46cb01e4505589e1c04ca80022100f6489c6cb81c35302f7bfb4eeeb5ac1626388708689257765f0e5d048a6f253f",
+      "amount": 1,
+      "time": "2019-02-03T07:42:21.183Z",
+      "id": "grEvYCxvK923wJ5IWVe4",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    }
+  ]
+}
