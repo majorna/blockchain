@@ -1,0 +1,72 @@
+{
+  "header": {
+    "merkleRoot": "bac79a87dec9798a7a8286f3d0a33e20430211b2d0b7e12dcdccf0aeaff13e62",
+    "nonce": "67794124",
+    "no": 37742,
+    "time": "2019-10-20T01:38:56.749Z",
+    "prevHash": "5418b9173dbe0f7191471f635f5d5a0b4c33df801c9019e38e66be197a378b68",
+    "version": 2,
+    "minDifficulty": 16,
+    "prevPow": "0005232bbef58ee17e0fe29bfd10aa65bde5097239ac64f5f691c3997107b52d",
+    "txCount": 4
+  },
+  "sig": "304502206a9013e63dd72f3ae2df40ecd0b62cdedf4364c2d641e2e255a66e7919d06f06022100aea0e7c85572a096ee21d4ef437ab8305ab8c5b7726ec89c8d267588d1856cb4",
+  "txs": [
+    {
+      "amount": 1,
+      "time": "2019-10-20T01:24:00.345Z",
+      "id": "nC0zpX6Gq6scMrkg5zNE",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 1200,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304502206c0fea9e77d43c4e31b8b5144e21d652ee19c148227699634c05a596c01d47ca022100e01c9b3123a807541297cef934645d66b688b14f15f4c4287f2c4c54ba252ef3"
+    },
+    {
+      "id": "MufUJJmumbdSQbxHM9O2",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 1201,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3046022100e20110f4b1d5cd1aec24914f236087bf458eff4109b2978795645f1a07d4d4bb022100c6ef8950e05239b8031c06aeb7cf33a93eec5e151c5035c511504508bb5861d7",
+      "time": "2019-10-20T01:24:02.588Z",
+      "amount": 1
+    },
+    {
+      "id": "ojEu6LD69FTBCBbuGMVn",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      },
+      "to": {
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2",
+        "balance": 1202
+      },
+      "sig": "304502207361162c113e8386893613b881ffc2092e4bd7484ccc9782de8adb79f39029e4022100b4a9d6f960b9eccefc2adebaeeb15aca4aec0c2a7f814be7aaf789a5d17ec106",
+      "time": "2019-10-20T01:24:17.159Z",
+      "amount": 1
+    },
+    {
+      "amount": 1,
+      "time": "2019-10-20T01:25:19.182Z",
+      "id": "iMlh9t7vL5vORCKcAMni",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      },
+      "to": {
+        "balance": 1203,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "30450221009cefd57f9530a6f9925920a249b97ef2bf58c688a1227552ddd2696d1ee9b1980220735da3e21ff458fc69792e8d9ccc8990c3dac1cc522cc47e93d67557933aa735"
+    }
+  ]
+}
