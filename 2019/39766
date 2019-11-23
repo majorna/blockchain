@@ -1,0 +1,72 @@
+{
+  "header": {
+    "merkleRoot": "c623146014f6c7ee4a13ca327f93d503564655aae933d29b4374a0c1755851b3",
+    "nonce": "813553809",
+    "no": 39766,
+    "time": "2019-11-23T18:59:11.132Z",
+    "prevHash": "e69e21a58ad195a62be6f5ea54f9b92c2ff6255af3492e4f256c9cf9dd814619",
+    "version": 2,
+    "minDifficulty": 12,
+    "prevPow": "0002bc718b16b6bc91510b36807aba47179fcdc91602913c7d7f2a3209e20a7a",
+    "txCount": 4
+  },
+  "sig": "3045022100b7adb0f04efb59d87db53ddb5fdf897f4b5c4b898eea23d8ae718f700455049502203a81fecaa3f8c0bb822a854f21ca0938abb88573662b8ebecfe2c213323d75eb",
+  "txs": [
+    {
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 5824,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "30450221008557a17c565a83c0047052e11644fd837c9e47ad734f41eaea49398e1257e01a02200e2dfe4e6804e3e1e3aa3ed8ec71d6cb75478e4495b8ec12936c3a83d83c03f2",
+      "amount": 1,
+      "time": "2019-11-23T18:44:14.007Z",
+      "id": "ucia0DyBAkE4FkZnMJVr"
+    },
+    {
+      "sig": "30440220040461b7e65c849fbdec534b61b619ca5f524d27e9b7b08a555add8a7fc7673d02201feead0f9477bdfec7897c0ff9c37c8834b4283d5ea3fcf718dbc12bd3c1c036",
+      "amount": 1,
+      "time": "2019-11-23T18:44:14.858Z",
+      "id": "umWuUxllpF86s9Y1ZZaN",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 5825,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      }
+    },
+    {
+      "to": {
+        "balance": 5826,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304402200b35171d0f3222f419af5614bfa9ece5caad6123890d5393e48a0499aa7665ea0220424af8fa66a9ee783f21e25fc4c313ecf4df1f3b9301ca59946b4cf342f95bcc",
+      "amount": 1,
+      "time": "2019-11-23T18:44:30.110Z",
+      "id": "60cRugD45orJYdnwjXo4",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      }
+    },
+    {
+      "id": "xvzcQpRtGEKFemF4NtiY",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 5827,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3046022100975ac5adee47c5c31d80a82cfe1a10eaa155b48bb88379f005fa6aad6bd52f92022100bd79570158afee6f1b1a1a4d8058fdcfd1fbebaae4a8c6295c17c90375121b28",
+      "amount": 1,
+      "time": "2019-11-23T18:49:18.654Z"
+    }
+  ]
+}
