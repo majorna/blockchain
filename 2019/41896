@@ -1,0 +1,72 @@
+{
+  "header": {
+    "txCount": 4,
+    "merkleRoot": "01ed7a4fa068b3671221d4365482ec8d37a717ae1b803ebca0ae55fb4ed5d19e",
+    "nonce": "225145997",
+    "no": 41896,
+    "time": "2019-12-24T03:40:05.243Z",
+    "prevHash": "339e8d9cbcabfd5354e23feaaa3890e45cf6a9d22ca0453509f0c9ccf56fa4aa",
+    "version": 2,
+    "minDifficulty": 10,
+    "prevPow": "0003be964faae4a04e65e68c760aa5218ba13fbf8a3a08d50e330e5714710215"
+  },
+  "sig": "3046022100be0cbc1dcf923bc817daed6971981484204b1f6583963d1dd0d5f8577d00def30221008018f2225597044d582c60d59061c2cd7426fbfd3b9f3d16c8c13d40d23d6b83",
+  "txs": [
+    {
+      "time": "2019-12-24T03:25:08.445Z",
+      "amount": 1,
+      "id": "Xbcoe6775dnXfvPWiJTL",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 14670,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304502201f1bf39eb950f3fa0b090c4142994cca657a2cc3164c411991073675478b7e1d022100c1edecb87fbd24b088e6f89839275e5c99fc723b0f1a0ad45b9eaef71d59a120"
+    },
+    {
+      "amount": 1,
+      "time": "2019-12-24T03:25:22.614Z",
+      "id": "PaZs7YG1kl7b6Ud01FZY",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 14671,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3044022059ca6604dce471dfbe28178244e64d367999619b3f9b3a9786426bbf23b44c1b02206bc8992778f91960f89abfda36697c112ee4a366d88dceb4d92bd4a6972a5b6f"
+    },
+    {
+      "id": "V0lSkKXXek4HzYFxMtBB",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 14672,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304502203d7ad0097d75fdb5c04525528fd7676ee27086bc6d5cbf86627a42711e668885022100f4ec19afeef7c30db329fbe4f85b3f4890fec6e7d80b46f298f8e9225b98682d",
+      "time": "2019-12-24T03:25:55.952Z",
+      "amount": 1
+    },
+    {
+      "amount": 1,
+      "time": "2019-12-24T03:32:19.181Z",
+      "id": "MnmHqbs3quGUpv9zpa3R",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 14673,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3046022100d6d4f0020e06466f31a5a6d2732d748bd9d2d6e83e02e606105510c0deedb414022100fe2d2953bab5cd883294a80d678fa2dd733415cc0ff2ba16b936bd879aa4a448"
+    }
+  ]
+}
