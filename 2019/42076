@@ -1,0 +1,72 @@
+{
+  "header": {
+    "prevHash": "5ffec482373558c552193d23034e1e16345b77c69a19ac52d24e2c1f5544181d",
+    "version": 2,
+    "minDifficulty": 12,
+    "prevPow": "00002ac8cdaacd5dec144c8244353394067b108677e4e958ceffe1c34f8c44f8",
+    "txCount": 4,
+    "merkleRoot": "d8df44ed3e5d29b75f57cfe280f2d239a50ef73b7d55a4820ecee93db65638a6",
+    "nonce": "81912653",
+    "no": 42076,
+    "time": "2019-12-26T17:06:19.364Z"
+  },
+  "sig": "3046022100a145dfbfa343681f2579cb74576d604891053abd397cd5e1701651db5c2352b4022100d57a938ae2539e802c602a9d6ed72ec543e24b27e72bd5fcddd34da0f944a69c",
+  "txs": [
+    {
+      "sig": "3045022100e28d9b7769f1db6579f7a8e7ba252a21a134bc6ce20b97d5ea7c79258fa58e2d0220732f86cf2cb332d61b636198828625a35eeccb32040af4ef4bce1041d01a5b60",
+      "amount": 1,
+      "time": "2019-12-26T16:51:28.327Z",
+      "id": "D6zJ9ViP2IzAuaczkRMK",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2",
+        "balance": 15662
+      }
+    },
+    {
+      "amount": 1,
+      "time": "2019-12-26T16:52:07.133Z",
+      "id": "zJfcxnLKVBbdlSbDsI6J",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 15663,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3045022021afebd74662c0f1dca9604140dd040bac1bb342dae8d77a73cd8f428a73564f022100baaa85a2f85a1b7a754f654672be0330c88def562334b07e247aba40d00ce79e"
+    },
+    {
+      "to": {
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2",
+        "balance": 15664
+      },
+      "sig": "30460221008f6cd9a86f4a4bda4daf8a4f8d3b221ca1c986cacdec3c5d2852629562f46997022100f23919246c8602e6ea03c17d904a2a0b9a2a10012cdc39acf7302232fd09ecdf",
+      "time": "2019-12-26T16:53:15.441Z",
+      "amount": 1,
+      "id": "pRKV1R89caTj87iOtyeL",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      }
+    },
+    {
+      "to": {
+        "balance": 15665,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304502206010274d7c722adfb67fba9d6594efcd13b3030270d4f23859993e2751e7a6d50221009f562ce76b1bf7a6faa8cac7c8deafa3b93d714c4d6f1ebe651c8d0e8062374b",
+      "time": "2019-12-26T16:53:34.139Z",
+      "amount": 1,
+      "id": "kYy58VeGoMaLicR6cqQj",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    }
+  ]
+}
