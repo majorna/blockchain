@@ -1,0 +1,72 @@
+{
+  "header": {
+    "merkleRoot": "9b2a288e3852eddbcb2968d1ac51598bf5471a954e4724ddb2ada8cd8c23bd1e",
+    "nonce": "910463617",
+    "no": 42492,
+    "time": "2020-01-01T14:57:04.566Z",
+    "prevHash": "1166161636cfbf12caf7bd385dd24be88f418551f76e65b1a761aa96d95a4d96",
+    "version": 2,
+    "minDifficulty": 14,
+    "prevPow": "0000f5ce283e893ea91ede90d2210d3c677e33bdd98d7438f9e2a2ecdb576966",
+    "txCount": 4
+  },
+  "sig": "3044022054b77d1e204d99ec04b8a731e08facb8fe2eed9d27f0ce2a231244b02cadcc5c022016d02b0fcbe2fe524a92d2f46ed31fca2c8f74b1206d7bfc2b87d9d9b69b8ee1",
+  "txs": [
+    {
+      "to": {
+        "balance": 17867,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3044022044c5409c3269e37e2ba25737929185038bee91643a70ee3e9ae5f901a67b103f022059481599e9bf9e72b6e4b3d831a92e5d2901ab83a23a08812587a3585bd277ba",
+      "amount": 1,
+      "time": "2020-01-01T14:42:08.137Z",
+      "id": "QXzmUbFmJXxcAHUOucdv",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    },
+    {
+      "amount": 1,
+      "time": "2020-01-01T14:42:08.874Z",
+      "id": "IdOGROWdzPtWq9UVl6In",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      },
+      "to": {
+        "balance": 17868,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3046022100e5672d5c2c1f3aef2ca2d138e26347615d8aaca77a0430e7babf58d7920bae7302210099e2f0fbac1e49719001442742467f2e5c9278f1a60d6915dc784ae63904c965"
+    },
+    {
+      "sig": "304502201bc1318c3e4e40ae613f3728c29dc67b5eeacc23b051ba99512aaa3f4d0a0320022100c2b7cee5cb4fc42268e22cc7d091eddc80cdfad5defe270bdc11c3ad0cf452e6",
+      "amount": 1,
+      "time": "2020-01-01T14:42:49.590Z",
+      "id": "PyrFkR0ERUNFmjtKYS9C",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 17869,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      }
+    },
+    {
+      "to": {
+        "balance": 17870,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "304402205ddb9b6f447a9bcd2b7632ccefb66739a57cd9e0dfbce6719c0abaf1befe181402206bfbf6770ebe176159cd14e99e9966af91b78e1db2d75d93a7eaf9cca010f677",
+      "time": "2020-01-01T14:48:24.608Z",
+      "amount": 1,
+      "id": "2RxQnkAnyfHQYCa8VOkA",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    }
+  ]
+}
