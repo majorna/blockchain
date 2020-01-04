@@ -1,0 +1,86 @@
+{
+  "header": {
+    "no": 42716,
+    "time": "2020-01-04T19:49:16.121Z",
+    "prevHash": "12fc0425f4fb49fb353bf6599274f107682ee6a6511424527e8dcb4b2564d753",
+    "version": 2,
+    "minDifficulty": 11,
+    "prevPow": "000335df4ab0e75d00001a79f8d9a8f3aef9273566673d8e6d49ea33efa166d7",
+    "txCount": 5,
+    "merkleRoot": "634f723c07791dba418d5eb06deb38c1e2b8a5af296f34c294a2fbefde3d7fca",
+    "nonce": "407634134"
+  },
+  "sig": "30440220018af724d0f31af57bb3d2da411c541f618838178d041d88554a9b0e1303983002204cf0afe585d9220db518f03c39e74d1e7d0f9f27422a37f982ac9d384c958e80",
+  "txs": [
+    {
+      "amount": 1,
+      "time": "2020-01-04T19:34:21.573Z",
+      "id": "YJqkwiUJ2QRTVvx2vLei",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 19071,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "30460221009ff27bf1553f12bde8c41fd332e35c61d192d6738aeda1b22fb5fecac3ba76c2022100d32e55c2c2bae04f9bc011a1c4803835c4ed49d9bbc4e81f07af8608d43256f0"
+    },
+    {
+      "to": {
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2",
+        "balance": 19072
+      },
+      "sig": "3044022073ac293d45fb0e9f736085ccc4dbf71f4630cca0df8b5df44cdbaebd4df7b95202202ba0df788badef9eceb5ce60baac7a051c173a57f8a45fe79579f37e69d491e2",
+      "amount": 1,
+      "time": "2020-01-04T19:34:22.464Z",
+      "id": "wtfSv5CmAI5vxZIZTKAP",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      }
+    },
+    {
+      "amount": 1,
+      "time": "2020-01-04T19:36:53.735Z",
+      "id": "Hb7ndaDlLVCmJztvkaQU",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 19073,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3046022100e81799caf564c2272f0bc2d656b949ade95f3bf2f63f2c1af8e248e7cd1c1dfe0221009d30786d715d46bcf8e6ef61f516a796be56234b33dd412d4500109f0e764399"
+    },
+    {
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2",
+        "balance": 19074
+      },
+      "sig": "30440220226009cb22e76049ac0b5b60c35cf979800221a42e03f0c14e7c75d6d583534202203fa87d05c90fed96e66a69bcb6099def2f362237c06c82aa283263f4fb99c631",
+      "time": "2020-01-04T19:44:13.235Z",
+      "amount": 1,
+      "id": "Ul33Z7NCVIUeGD6jNGpc"
+    },
+    {
+      "to": {
+        "balance": 19075,
+        "id": "oy6HvPPJEqTtV9413pxDhoQqoKU2"
+      },
+      "sig": "3046022100a40ff130699515794aaa366d9a886083ec902f5d4c08c4358137911b5394bbd8022100e36a5a50e1484a76d1eebc991698fe154677a3d42891ef18beba695871fc5c33",
+      "amount": 1,
+      "time": "2020-01-04T19:49:14.752Z",
+      "id": "sgKPlTfIVpcaauDDA0Lj",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    }
+  ]
+}
