@@ -1,0 +1,58 @@
+{
+  "header": {
+    "nonce": "244986465",
+    "no": 42972,
+    "time": "2020-02-22T12:26:58.283Z",
+    "prevHash": "bd281822848afc8d9852529726dabe820496e098c4a15f1d74a243e1b4e7b660",
+    "minDifficulty": 14,
+    "version": 2,
+    "prevPow": "002af12bf0384ce1e6bb4052859f87f7e2e0248f4a83106cd921cb926aa93d49",
+    "txCount": 3,
+    "merkleRoot": "4783120fe82d892a2e64a89cf2a99b30d2d910ea05a8ef6af36f86a1451800ee"
+  },
+  "sig": "3045022100fe8693ea2b697638e394cb89edf926ffd06296de0339fb19a2377b3cb9a6cf7a022021555b833029ec0fa5b8725e979587845066945e0fd06fb51c54b71561ce5276",
+  "txs": [
+    {
+      "sig": "3046022100bc65f873fac44fefc89a3d9f2f908c40d7060af44c659c58ec409d3a9b9d7df5022100a45bec45f9485c93bb8474429cee797e76e6d7e0e4193e6d57c8f22bfb06feee",
+      "amount": 1,
+      "time": "2020-02-22T12:07:18.979Z",
+      "id": "upU8jugkNb3MKyrxE3nP",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 686,
+        "id": "iGDJCN5XCtXtTf0bDyUErerAOf43"
+      }
+    },
+    {
+      "to": {
+        "id": "iGDJCN5XCtXtTf0bDyUErerAOf43",
+        "balance": 687
+      },
+      "sig": "304602210096e99aad0de755a3c10407cb265ce2e1a2ddb81832b9361c4563543bd6a9412202210099253203336387ebd9f2cdca33e222d4dbf30db44be04e870562f3396896362d",
+      "time": "2020-02-22T12:12:01.549Z",
+      "amount": 1,
+      "id": "NqaLUQSMywbBG0c9TqiN",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    },
+    {
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      },
+      "to": {
+        "balance": 688,
+        "id": "iGDJCN5XCtXtTf0bDyUErerAOf43"
+      },
+      "sig": "3045022100dab7b1d758f2701be27cfd0dbd1d0273686a7f3fda117139173d34c0a45c2b82022014363a7c6e993f088687bd25cf6c0aa178f0011fa5d8c082f085e1b262b82f25",
+      "amount": 1,
+      "time": "2020-02-22T12:12:11.387Z",
+      "id": "mBFNyMY1N1zUc9ewfQZZ"
+    }
+  ]
+}
