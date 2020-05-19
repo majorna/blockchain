@@ -1,0 +1,72 @@
+{
+  "header": {
+    "time": "2020-05-19T18:10:59.445Z",
+    "txCount": 4,
+    "prevHash": "72464f7836fae685b6443f5b1b80e61c457cbee1d766f691a5a7f1f90c06278d",
+    "merkleRoot": "810235911ba19f6254bfe13ed20c5fb906bad991ce8026fcfd3e01599a0f1f03",
+    "minDifficulty": 15,
+    "version": 2,
+    "prevPow": "00001f8db88cd97864f4fe42e4dcf4b1a4f85f34a33a4ec243d054371b68e550",
+    "nonce": "1193024161",
+    "no": 44042
+  },
+  "sig": "3046022100a299a3a7ff7105d089158bc2032e6a6a44b5bfc4e563621cda5cf918786a56ec022100ded30b5675f58a347361f441937f7e1a80df1470e4aadc229e354dacca154f34",
+  "txs": [
+    {
+      "to": {
+        "balance": 2076182,
+        "id": "KyjHGV6fscUZYG2W5t4ZYGGqt1i1"
+      },
+      "time": "2020-05-19T17:56:02.970Z",
+      "id": "qDQUVqs5tHwy39sgcqJR",
+      "amount": 1,
+      "sig": "304602210097b35a6d79f763363d73b3d766759205ca0a6831bea0f9c97e102aec1ac1ce33022100ae595e3ac4a0f74f80e15eb8d793c12f95e2c748ba81ab68e0113cefae8f889a",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    },
+    {
+      "time": "2020-05-19T17:56:06.284Z",
+      "id": "yZ877OmA15Pw6KwqaEKZ",
+      "amount": 1,
+      "sig": "3045022033e2a4ed7f8aa0abd9b72edece732ee1c71cde64c516c8e407d89b8e0de92b24022100eabe06f72a6520deb1069bf2e08d98d8b561bbaefe09ec65ba8191eebcc04068",
+      "from": {
+        "id": "majorna",
+        "balance": 0
+      },
+      "to": {
+        "balance": 2076183,
+        "id": "KyjHGV6fscUZYG2W5t4ZYGGqt1i1"
+      }
+    },
+    {
+      "time": "2020-05-19T17:56:29.659Z",
+      "amount": 1,
+      "id": "vjcVHrRic8Sal6rdWjsa",
+      "sig": "30460221008f636c5a01329dd0830698d2d7ede95cf37f511d31a8c45f6e33c4a959b80824022100e6952529b4418482c25fde0ad415a337734d26f075a9dcdcb3152fd59dafc1d5",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 2076184,
+        "id": "KyjHGV6fscUZYG2W5t4ZYGGqt1i1"
+      }
+    },
+    {
+      "to": {
+        "balance": 2076185,
+        "id": "KyjHGV6fscUZYG2W5t4ZYGGqt1i1"
+      },
+      "time": "2020-05-19T17:58:25.415Z",
+      "id": "NH9guXt0TIqJcCLgyvjF",
+      "amount": 1,
+      "sig": "3045022100df5c8ed26a4557f2e5ec5b277359d161e3253586af0cd419363870210da29c110220620f0fa5d0c93c4bb34a1a6e3cafd03e825a00f93b1fa209635968c61f8cbef6",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    }
+  ]
+}
